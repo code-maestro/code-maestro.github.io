@@ -2701,7 +2701,7 @@ input, select, textarea {
 	}
 
 	header.major h2:after {
-		background-color: rgba(255, 255, 255, 0.35);
+		background-color: rgba(255, 255, 255, 0.945);
 	}
 
 /* Table */
@@ -3422,7 +3422,7 @@ input, select, textarea {
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #e2d8d8;
 		}
 
 		#main blockquote {
@@ -3757,6 +3757,13 @@ input, select, textarea {
 						}
 
 		}
+
+
+/* CTA HIRE ME HEADER MAJOR H2 COLOR OVERRIDE */
+
+	#cta .major h2{
+		color: #000000;
+	}
 
 /* Footer */
 
