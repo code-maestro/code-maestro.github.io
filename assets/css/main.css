@@ -2616,7 +2616,7 @@ input, select, textarea {
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 2.5em;
+		padding-left: 1.5em;
 	}
 
 		ul.icons li {
@@ -3762,6 +3762,14 @@ input, select, textarea {
 /* CTA HIRE ME HEADER MAJOR H2 COLOR OVERRIDE */
 
 	#cta .major h2{
+		color: #000000;
+	}
+
+	#intro .major h2{
+		color: #000000;
+	}
+
+	#second .major h2{
 		color: #000000;
 	}
 
